@@ -34,23 +34,23 @@ This project consists of making a website, then using the Spotify API to display
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
-Languages:
-  JavaScript
-  CSS
-  HTML
+Languages:\
+  JavaScript\
+  CSS\
+  HTML\
   SQL
     
 Frameworks/Libraries
   * [![React][React.js]][React-url]
   * [![Node][Node.js]][Node-url]
-  Vite.js
+  \Vite.js
     
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
 
-Here are the links to all of the Tutorials:
+Here are the links to all of the Tutorials:\
 
 * Spotify Display Profile Data Tutorial
 ```sh
@@ -59,26 +59,26 @@ https://developer.spotify.com/documentation/web-api/howtos/web-app-profile
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+This is an example of how to list things you need to use the software and how to install them.\
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Installation
 
-To get started install:
+To get started install:\
 
 Node.js
 ```sh
 https://nodejs.org/en/
 ```
-You will also have to install Vite but that is covered in the Spotify API tutorial
+\You will also have to install Vite but that is covered in the Spotify API tutorial
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Roadmap
 
-Objectives will be put here
+Objectives will be put here\
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
