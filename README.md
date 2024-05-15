@@ -53,10 +53,7 @@ Frameworks/Libraries
 
 Here are the links to all of the Tutorials:
 
-* Spotify Display Profile Data Tutorial
-```sh
-https://developer.spotify.com/documentation/web-api/howtos/web-app-profile
-```
+[Spotify Display Profile Data Tutorial](https://developer.spotify.com/documentation/web-api/howtos/web-app-profile)
 
 ### Prerequisites
 
